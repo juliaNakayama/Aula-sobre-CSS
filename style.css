@@ -1,0 +1,48 @@
+body{
+    background-color: black
+}
+
+p.p1{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium';
+}
+
+p.p2{
+    color: darkorange;
+    font-family: 'Times New Roman';
+}
+
+p.p3{
+    color: aqua;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+p.p4{
+    color: rgb(235, 53, 104);
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.p5{
+    color: crimson;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+p.p6{
+    color: rgb(113, 4, 113);
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+}
+p.p7{
+    color: rgb(42, 190, 113);
+    font-family: 'Segoe UI', Tahoma,  Verdana, sans-serif;
+}
+p.p8{
+    color: rgb(32, 16, 216);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  Verdana, sans-serif;
+}
+p.p9{
+    color: rgb(194, 220, 21);
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+p.p10{
+    color: rgb(215, 97, 12);
+    font-family: 'Courier New', Courier, monospace
+}
+
